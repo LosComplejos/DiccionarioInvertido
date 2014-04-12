@@ -1,4 +1,4 @@
-DiccionarioInvertido
+Indice Invertido
 ====================
 
 Conceptos ACM (mono/bi grams)
