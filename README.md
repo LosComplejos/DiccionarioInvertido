@@ -18,3 +18,6 @@ Procesa los titulos y abstracts de acm.db:
 
 Base de datos:
 https://www.dropbox.com/s/ymz253goevhwjqm/acm.db
+
+Programas principales:
+00-title.py, 01-abstract.py, 02-title+abstract.py
